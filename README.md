@@ -7,3 +7,10 @@
 rlpalomo25/rlpalomo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+This is a file that was created with the directory
+shit is good
+
+
+#Header
+
+##subheader
